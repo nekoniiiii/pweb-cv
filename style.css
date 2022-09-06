@@ -245,3 +245,11 @@ a:active {
   height: 115px;
   background: #0F3460;
 }
+
+.footer{
+    font-weight: 500;
+    font-size: 14px;
+    color: antiquewhite;
+    text-align: center;
+    padding: 20px 0;
+}
